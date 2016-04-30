@@ -1,4 +1,32 @@
 <resources>
     <string name="app_name">List Courses</string>
-    <string name="cours_one">Культура речи</string>
+    <string name="course__russia">Русский язык ПЗ</string>
+
+    <string name="course__diff_practice">Обыкновенные дифференциальные уравнения ПЗ</string>
+    <string name="course__diff_lecture">Обыкновенные дифференциальные уравнения Л</string>
+    <string name="course__diff_lab">Обыкновенные дифференциальные уравнения ЛЗ</string>
+
+    <string name="course__methods_lab">Вычеслительная математика Л</string>
+    <string name="course__methods_lecture">Вычеслительная математика ЛЗ</string>
+
+    <string name="course__physical">Физическая куультура ПЗ</string>
+
+    <string name="course__complex_lecture">Комплексный анализ Л</string>
+    <string name="course__complex_practice">Комплексный анализ ПЗ</string>
+
+    <string name="course__dev-software">Разработка программного обеспечения ЛЗ</string>
+
+    <string name="course__dev_lecture">Технология программирования Л</string>
+    <string name="course__dev_lab">Технология программирования ЛЗ</string>
+
+    <string name="course__arch">Архитектура компьютера Л</string>
+
+    <string name="course__eco_lecture">Экономика Л</string>
+    <string name="course__eco_practice">Экономика ПЗ</string>
+
+    <string name="course__th-physic_lecture">Теоритическая механика Л</string>
+    <string name="course__th-physic_practice">Теоритическая механика ЛЗ</string>
+
+    <string name="course__english">Иностранный язык ПЗ</string>
+    <string name="course__com-practice_lab">Компьютерный практикум по программированию ЛЗ</string>
 </resources>
