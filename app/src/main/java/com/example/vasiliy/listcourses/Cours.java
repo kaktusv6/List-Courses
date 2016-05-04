@@ -9,14 +9,28 @@ public class Cours {
     private String mTeacherCourse = "";
     private String mLectureHallCourse = "";
 
+    /* ---------- Constructor ---------- */
     public Cours(   String nameCourse, String typeCourse,
                     String teacherCourse, String lectureHallCourse)
     {
-        this.mNameCourse = nameCourse;
-        this.mTypeCourse = typeCourse;
-        this.mTeacherCourse = teacherCourse;
-        this.mLectureHallCourse = lectureHallCourse;
+        mNameCourse = nameCourse;
+        mTypeCourse = typeCourse;
+        mTeacherCourse = teacherCourse;
+        mLectureHallCourse = lectureHallCourse;
     }
 
+    /* ---------- get methods ---------- */
 
+    public String getNameCourse(){
+        return mNameCourse;
+    }
+    public String getTypeCourse(){
+        return mTypeCourse;
+    }
+    public String getmTeacherCourse(){
+        return mTeacherCourse;
+    }
+    public String getmLectureHallCours(){
+        return mLectureHallCourse;
+    }
 }
