@@ -3,15 +3,15 @@ package com.example.vasiliy.listcourses;
 /**
  * Created by vasiliy on 04.05.16.
  */
-public class Cours {
+public class Course {
     private String mNameCourse = "";
     private String mTypeCourse = "";
     private String mTeacherCourse = "";
     private String mLectureHallCourse = "";
 
     /* ---------- Constructor ---------- */
-    public Cours(   String nameCourse, String typeCourse,
-                    String teacherCourse, String lectureHallCourse)
+    public Course(String nameCourse, String typeCourse,
+                  String teacherCourse, String lectureHallCourse)
     {
         mNameCourse = nameCourse;
         mTypeCourse = typeCourse;
